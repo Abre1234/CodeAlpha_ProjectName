@@ -60,7 +60,7 @@ Hi there! 👋 I'm a passionate **Data Scientist** with a strong foundation in p
 - Implemented data preprocessing, feature selection, and insights presentation.
 - Delivered actionable insights for marketing optimization.
 
-➡️ [GitHub Repo](https://github.com/Abre1234/CodeAlpha_Sales_Prediction)
+➡️ [GitHub Repo]((https://github.com/Abre1234/CodeAlpha_ProjectName/blob/main/Sales_Prediction_.ipynb))
 
 ---
 
